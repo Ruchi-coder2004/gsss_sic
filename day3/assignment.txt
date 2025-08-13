@@ -1,0 +1,6 @@
+learn output formatting
+why in python we do not have increment and decrement
+learn about __main__
+what is pip and pythonic
+
+docs.
