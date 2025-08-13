@@ -1,0 +1,19 @@
+ARITHMETRIC OPERATORS:
++ - * // / % **
+
+All oprtators are binary operators: they need 3 operands or values.
+
+The rule/syntax says we must place operator in b/w the operands which is INFIX notation.
+The I/P are numbers.
+The O/P is number.
+The operators + and - have the least precedence.
+All the arithmetic operators except power operator has Left to Right Associtivity.
+
+Note: The way positive integers are stored in memory, the way negative integers are stored in memory, the way floating point stored in memeory all are different.
+
+if num = 67
+
+for n = 067 we have to give n = 0o67
+
+f=15, n=0Xf, n=0o87
+
