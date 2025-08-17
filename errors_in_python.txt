@@ -6,4 +6,17 @@ When we try to do some wrong thing is
 4. ValueError : when try to cast one value to another
     ex: import sys
         number = int(sys.argv[0])
-        
+
+5. TypeError : if we not specify the incorrect value  in range
+    ex : for i in range():
+            print(i)
+    ex2 : for i in range(1,2,3,4):
+            print(i)    
+
+6. ZeroDivisionError : when we try to divide from zero
+
+Errors are classes
+
+all types of errors are child class of Error block
+
+always must and should we have to place the parent except class, Otherwise it will be an SytaxError.

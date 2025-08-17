@@ -3,4 +3,15 @@ why in python we do not have increment and decrement
 learn about __main__
 what is pip and pythonic
 
-docs.
+can we modify a list which is a element of a tuple
+
+command line argument to myrange function
+
+why and for what purpose in argv??
+    
+why there is no implicit type casting in Python??
+ex : sum = 'abc' + 56r
+
+application = user use applications and that use software
+
+pymysql =  it allow python to communicate with sql
