@@ -1,0 +1,43 @@
+input('Enter a number: ')
+
+English Speech:
+    Dr. Subramanyam Swamy with devil advocate
+    Sadhguru in Law college
+    Jath Malani
+    P Chidambaram
+
+In How many different ways the below fucntion can be called:
+
+def my_function(num1=100, num2=200):
+    return num1+num2
+
+Different ways of calling the above functional
+1. my_function(10,20)
+2. my_function(10)
+3. my_function()
+4. my_function(num1=20)
+5. my_function(num2=25)
+6. my_function(None,20)
+7. my_function(num1=20,num2=3)
+8. my_function(num=4,num1=20)
+9. my_function(None,None)
+10. my_function(20,None)
+
+----------------------------------------------------------------------------------------------------------------
+
+
+List in python
+List as a DS
+What is DS?
+Birth of a DS like List
+Uses
+Pros and Cons
+Alternatives
+Beyond List
+
+
+int num[10]; // DS -> it need only one variable
+int num1,num2,num3,um4,num5; // may or may not DS -> it needs multiple variables
+
+
+Birth of Array: managing so many values is difficult, but managing array is easy with index and its storing.

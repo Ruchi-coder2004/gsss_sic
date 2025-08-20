@@ -20,3 +20,14 @@ Errors are classes
 all types of errors are child class of Error block
 
 always must and should we have to place the parent except class, Otherwise it will be an SytaxError.
+
+
+7. TypeError : Missing one functional argument beacuse no value is passed to num2
+def my_function(num1, num2):
+    return num1+num2
+
+print(f'Sum = {my_function(10,20)}')
+print(f'Sum = {my_function((10,200))}')
+
+
+8. IndexError : try to print the element which is not in list

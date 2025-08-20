@@ -1,0 +1,4 @@
+learn how scanf("%[^#]s") is work in python
+
+Good and Bad examples of Array.
+

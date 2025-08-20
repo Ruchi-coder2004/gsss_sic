@@ -1,0 +1,3 @@
+why there won't be a index errror in slicing
+
+impiment fucntion find which mimics the find method of string class
