@@ -31,3 +31,5 @@ print(f'Sum = {my_function((10,200))}')
 
 
 8. IndexError : try to print the element which is not in list
+
+9. RecursinError : maximum recursion dept exceeded while calling a object

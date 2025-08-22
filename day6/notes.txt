@@ -1,0 +1,14 @@
+In python there is no difference between user defined and builting function
+
+Function Scope:
+    always main function is first called
+    as soon as it called frame is created for that function
+
+    Contents of a Frame:
+        the local variables 
+        the function arguments
+
+calling function is main and called function is print.
+caller is main and called function is print.
+
+
