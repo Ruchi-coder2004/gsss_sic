@@ -12,7 +12,7 @@ else:
             print('*'+' '*i+'*'+' '*(j-2)+'*'+' '*i+'*')
             j-=2
         elif i == number_of_lines//2:
-            print('*'+' '*i+'*'+' '*i+'*',sep="")
+            print('*'+' '*i+'*'+' '*i+'*',sep   ="")
             j-=2
         elif i > number_of_lines//2:
             if i == number_of_lines-1:
