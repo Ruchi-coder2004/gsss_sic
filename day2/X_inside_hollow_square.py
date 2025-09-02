@@ -9,7 +9,7 @@ else:
         if i == 0:
             print('* '*number_of_lines,sep=' ')
         if i < number_of_lines//2 and i > 0:
-            print('*'+' '*i+'*'+' '*(j-2)+'*'+' '*i+'*')
+            print('*'+' '*i+'*'+' '*(j-2)+'  *'+' '*i+'*')
             j-=2
         elif i == number_of_lines//2:
             print('*'+' '*i+'*'+' '*i+'*',sep   ="")

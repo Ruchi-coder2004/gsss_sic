@@ -46,7 +46,7 @@ courses = courses.fillna(0)
 enrollments = enrollments.fillna(0)
 grades = grades.fillna(0)
 
-students = students.drop_duplicates()
+students = students.drop_duplicates(inplace=True)
 courses = courses.drop_duplicates()
 enrollments = enrollments.drop_duplicates()
 grades = grades.drop_duplicates()

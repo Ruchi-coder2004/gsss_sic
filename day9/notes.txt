@@ -1,0 +1,3 @@
+Bubble sort: 
+    * its a simpler, easier, trivial and traditional way of sorting technique. Such kind of technique we call as    BRUTE FORCE
+    *  
